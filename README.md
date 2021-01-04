@@ -1,5 +1,5 @@
 <h1 align="center">React Templates</h1>
-<p align="center">This repository contains 3 templates to start your project with React</p>
+<p align="center">This repository contains 2 templates to start your project with React</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -14,19 +14,18 @@
 
 ## Projects
 
-This repository features 3 templates to clone
+This repository features 2 templates to clone
 
-- [**Rest Api (Javascript)**](https://github.com/filliperomero/express-template/tree/master/rest-api/javascript)
-- [**Rest Api (Typescript)**](https://github.com/filliperomero/express-template/tree/master/rest-api/typescript) - Comming soon
-- [**Web Application (Javascript)**](https://github.com/filliperomero/express-template/tree/master/web-application/javascript) - Outdated
+- [**With Theme**](https://github.com/filliperomero/react-template/tree/master/with_theme) - Comming soon
+- [**With Theme using CSS Variables**](https://github.com/filliperomero/react-template/tree/master/with_theme_css_variables)
 
 Inside each template, you will find all informations related in README file.
 
 ## Getting started
 
-1. Clone this repo using `git clone https://github.com/filliperomero/express-template.git`
+1. Clone this repo using `git clone https://github.com/filliperomero/react-template.git`
 2. Move yourself to the appropriate template directory using `cd`
-3. Copy this folder using `cp -R express-template/<rest-api|web-application>/<javascript|typescript> new-folder`
+3. Copy this folder using `cp -R react-template/<with_theme|with_theme_css_variables> new-folder`
 
 ## License
 
