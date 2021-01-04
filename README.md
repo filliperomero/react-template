@@ -16,7 +16,7 @@
 
 This repository features 2 templates to clone
 
-- [**With Theme**](https://github.com/filliperomero/react-template/tree/master/with_theme) - Comming soon
+- [**With Theme**](https://github.com/filliperomero/react-template/tree/master/with_theme)
 - [**With Theme using CSS Variables**](https://github.com/filliperomero/react-template/tree/master/with_theme_css_variables)
 
 Inside each template, you will find all informations related in README file.
